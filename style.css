@@ -3143,6 +3143,10 @@ footer {
     .fash-logo img {
         max-height: 30px;
     }
+    
+    .fash-search {
+        display:none;
+    }
     .fash-col {
         margin-bottom: 30px;
     }
